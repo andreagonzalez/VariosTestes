@@ -1,2 +1,0 @@
-TestaCliente.java
- TestaCliente
